@@ -1,0 +1,1 @@
+Foi acrescentado a classe class="container__imagem nas imgens e na tag span

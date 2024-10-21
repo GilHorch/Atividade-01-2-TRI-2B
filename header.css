@@ -3,7 +3,7 @@
     /*largura*/
     height: 24px;
     /*altura*/
-    background-image: url(Menu.svg);
+    background-image: url("./img/Menu.svg");
     /*imagem de fundo*/
     background-repeat: no-repeat;
     background-position: center;
